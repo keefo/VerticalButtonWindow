@@ -1,0 +1,222 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {535, 508}}";
+			sepNavSelRange = "{45, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* VerticalButtonWindowAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {535, 508}}";
+			sepNavSelRange = "{122, 9}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* VerticalButtonWindowAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {535, 508}}";
+			sepNavSelRange = "{92, 5}";
+			sepNavVisRange = "{0, 440}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* VerticalLineWindowButton_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {535, 508}}";
+			sepNavSelRange = "{69, 0}";
+			sepNavVisRange = "{0, 171}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A7DC8C57131AD4EF004DE899 /* VerticalLineWindowButton */;
+		activeTarget = 8D1107260486CEB800E47090 /* VerticalLineWindowButton */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* VerticalLineWindowButton */,
+		);
+		codeSenseManager = A7DC8C6C131AD4FB004DE899 /* Code sense */;
+		executables = (
+			A7DC8C57131AD4EF004DE899 /* VerticalLineWindowButton */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320528322;
+			PBXWorkspaceStateSaveDate = 320528322;
+		};
+		perUserProjectItems = {
+			A75F87C0131AD9B5001A24BE /* PBXTextBookmark */ = A75F87C0131AD9B5001A24BE /* PBXTextBookmark */;
+			A75F87C1131AD9B5001A24BE /* PBXTextBookmark */ = A75F87C1131AD9B5001A24BE /* PBXTextBookmark */;
+			A75F87C2131AD9B5001A24BE /* PBXTextBookmark */ = A75F87C2131AD9B5001A24BE /* PBXTextBookmark */;
+			A75F87C3131AD9B5001A24BE /* PBXTextBookmark */ = A75F87C3131AD9B5001A24BE /* PBXTextBookmark */;
+			A75F87E5131ADFCC001A24BE /* PBXTextBookmark */ = A75F87E5131ADFCC001A24BE /* PBXTextBookmark */;
+			A75F87E6131ADFCC001A24BE /* PBXTextBookmark */ = A75F87E6131ADFCC001A24BE /* PBXTextBookmark */;
+			A75F883B131AE143001A24BE /* PBXTextBookmark */ = A75F883B131AE143001A24BE /* PBXTextBookmark */;
+		};
+		sourceControlManager = A7DC8C6B131AD4FB004DE899 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {535, 508}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 252}";
+		};
+	};
+	8D1107260486CEB800E47090 /* VerticalLineWindowButton */ = {
+		activeExec = 0;
+		executables = (
+			A7DC8C57131AD4EF004DE899 /* VerticalLineWindowButton */,
+		);
+	};
+	A75F87C0131AD9B5001A24BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* VerticalButtonWindowAppDelegate.h */;
+		name = "VerticalButtonWindowAppDelegate.h: 6";
+		rLen = 9;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	A75F87C1131AD9B5001A24BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7DC8CB4131AD6C3004DE899 /* VerticalButtonWindow.h */;
+		name = "VerticalButtonWindow.h: 5";
+		rLen = 0;
+		rLoc = 78;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+	A75F87C2131AD9B5001A24BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7DC8CB5131AD6C3004DE899 /* VerticalButtonWindow.m */;
+		name = "VerticalButtonWindow.m: 3";
+		rLen = 20;
+		rLoc = 34;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 0;
+	};
+	A75F87C3131AD9B5001A24BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* VerticalLineWindowButton_Prefix.pch */;
+		name = "VerticalLineWindowButton_Prefix.pch: 2";
+		rLen = 0;
+		rLoc = 69;
+		rType = 0;
+		vrLen = 171;
+		vrLoc = 0;
+	};
+	A75F87E5131ADFCC001A24BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	A75F87E6131ADFCC001A24BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* VerticalButtonWindowAppDelegate.m */;
+		name = "VerticalButtonWindowAppDelegate.m: 5";
+		rLen = 5;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	A75F883B131AE143001A24BE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A7DC8CB5131AD6C3004DE899 /* VerticalButtonWindow.m */;
+		name = "VerticalButtonWindow.m: 17";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 267;
+	};
+	A7DC8C57131AD4EF004DE899 /* VerticalLineWindowButton */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VerticalLineWindowButton;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A7DC8C6B131AD4FB004DE899 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A7DC8C6C131AD4FB004DE899 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A7DC8CB4131AD6C3004DE899 /* VerticalButtonWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {535, 508}}";
+			sepNavSelRange = "{78, 0}";
+			sepNavVisRange = "{0, 227}";
+		};
+	};
+	A7DC8CB5131AD6C3004DE899 /* VerticalButtonWindow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {672, 742}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{267, 719}";
+		};
+	};
+}
